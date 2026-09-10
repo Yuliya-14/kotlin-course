@@ -143,5 +143,4 @@ class Homework {
     // 47. Количество часов, отведенное каждой команде для работы над проектом.
     val countHoursWorkingProject: Int = 24
 
-
 }
